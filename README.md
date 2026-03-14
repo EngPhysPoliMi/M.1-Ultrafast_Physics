@@ -1,6 +1,6 @@
-# x.y - Template
+# M.1 - Ultrafast Physics
 
-Repository for "Template".
+Repository for "Ultrafast Physics".
 
 
 ## Use instructions
